@@ -1,0 +1,38 @@
+nav {
+  height: 15%;
+  width: 936px;
+  display: flex;
+  justify-content: center;
+  color: white;
+  line-height: 38.52px;
+  padding: 40px;
+  letter-spacing: 1px;
+}
+
+.logo-content {
+  position: absolute;
+  left: 7vw;
+}
+
+.link-container {
+  box-sizing: border-box;
+  height: 15vh;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+  width: 417px;
+  align-content: center;
+  margin-left: 20vw;
+}
+
+.sub {
+  position: absolute;
+  right: 3vw;
+  border: solid 1px white;
+  border-radius: 25px;
+  height: 42px;
+  width: 117px;
+  background-color: transparent;
+  color: white;
+  letter-spacing: 1px;
+}
